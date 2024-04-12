@@ -1,7 +1,8 @@
 # Shop management game
+### [Codebase](https://github.com/kris659/ShopManagementGamePrototype-Codebase)
 I'm currently working on a game in which you will manage your shop with the focus on managing the warehouse and transportation of goods.
 
-I can't public the entire project, becouse it contains paid assets, here is the [codebase](https://github.com/kris659/ShopManagementGamePrototype-Codebase).
+I can't public the entire project, becouse it contains paid assets.
 
 
 
