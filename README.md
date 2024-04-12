@@ -14,7 +14,7 @@ I can't public the entire project, becouse it contains paid assets, here is the 
 ## Among the clouds
 [Game](https://kris659.itch.io/among-the-clouds) made for the game jam at Poznan University of Technology. [Git-Code](https://github.com/Wiechete/Sky-Plane-game/tree/main/Sky%20plane/Assets/Scripts)
 ## Pyramid of Madamaka
-[Game](https://kris659.itch.io/pyramid-of-madamaka) made for [GMTK Game Jam]().
+[Game](https://kris659.itch.io/pyramid-of-madamaka) made for [GMTK Game Jam](https://itch.io/jam/gmtk-2023).
 # Game developers club at PUT
 I'm also an active member of game developers club "RPG" at Poznan University of Technology.
 
