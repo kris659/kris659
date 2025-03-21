@@ -1,4 +1,4 @@
-# Shop management game
+# Payout - Shop Simulator
 ### [Link to project codebase](https://github.com/kris659/ShopManagementGamePrototype-Codebase)
 I'm currently working on a game in which you will manage your shop with the focus on managing the warehouse and transportation of goods.
 I can't make the entire project public, because it contains licensed assets.
