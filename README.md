@@ -1,15 +1,12 @@
 # Payout - Shop Simulator
 ### [Link to project codebase](https://github.com/kris659/ShopManagementGamePrototype-Codebase)
 
-[Youtube - Demo trailer](https://youtu.be/WHQCIpaR0xo?si=RL0ULre-P0LKcdcT)
+[Steam Page](https://store.steampowered.com/app/3551680/Payout__Shop_Simulator/)
 
 I'm currently working on a game in which you will manage your shop with the focus on managing the warehouse and transportation of goods.
 I can't make the entire project public, because it contains licensed assets.
 
-
-Steam page should be available by the and of the April.
-
-Game is planned to be released in July/August.
+Game is planned to be released in August/September.
 
 
 # Game Jams
