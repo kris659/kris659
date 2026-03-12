@@ -6,8 +6,19 @@
 I'm currently working on a game in which you will manage your shop with the focus on managing the warehouse and transportation of goods.
 I can't make the entire project public, because it contains licensed assets.
 
-Game is planned to be released in August/September.
+[![SteamDB](https://steamdb.info/api/Widget?appid=550)](https://steamdb.info/app/550/)
 
+[![Steam](https://img.shields.io/badge/Steam-Team%20Fortress%202-blue?logo=steam)](https://store.steampowered.com/app/440/)
+
+[![Portal 2](https://cdn.cloudflare.steamstatic.com/steam/apps/3551680/header.jpg)](https://store.steampowered.com/app/3551680/)
+
+# My Game
+
+[![Steam](https://img.shields.io/badge/Steam-Store-blue?logo=steam)](https://store.steampowered.com/app/APPID)
+
+[![Steam Header](https://cdn.cloudflare.steamstatic.com/steam/apps/3551680/header.jpg)](https://store.steampowered.com/app/3551680)
+
+Game is planned to be released in August/September.
 
 # Game Jams
 
